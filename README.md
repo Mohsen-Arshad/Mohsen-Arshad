@@ -54,7 +54,7 @@ Built with:
 
 🔗 **[View LinguaForge →](https://github.com/Mohsen-Arshad/LinguaForge)**
 
-###  Nyxel
+###  
 
 An AI-focused project exploring **developer tooling, browser integration, local infrastructure, and AI-assisted workflows**.
 
@@ -118,7 +118,7 @@ I'm currently focused on the intersection of **software engineering and AI**:
 | Project              | What it is                       | Main Technologies       |
 | -------------------- | -------------------------------- | ----------------------- |
 |  **LinguaForge**  | Local AI voice & dialogue studio | Python · PyTorch · CUDA |
-|  **NyxelRelay**     | AI & developer tooling           | TypeScript · Node.js    |
+|  **Nyxel**     | AI & developer tooling           | TypeScript · Node.js    |
 |  **Kaghazbaran**   | Full-stack web application       | Angular · .NET          |
 |  **RoastMan**       | E-commerce platform              | Angular · .NET · Redis  |
 |  **Game Projects** | Games & interactive experiments  | Unity · C# · Blender    |
