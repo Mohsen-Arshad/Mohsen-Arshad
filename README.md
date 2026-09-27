@@ -40,7 +40,7 @@ More recently, I've been moving deeper into **AI-integrated software**.
 
 I'm particularly interested in building applications around:
 
-`LLMs` `Local AI` `AI Agents` `Generative AI` `PyTorch` `GPU Inference` `Automation`
+`LLMs` `Local AI` `AI Agents` `Generative AI` `Automation`
 
 Rather than only consuming AI APIs, I enjoy building the software around the models — from the user interface and orchestration to inference, processing, and the final product.
 
