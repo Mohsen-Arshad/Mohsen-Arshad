@@ -1,20 +1,16 @@
-<div align="center">
-
 # Hey, I'm Mohsen
 
-### Full-Stack Developer · AI Builder · Software Engineer
+### Full-Stack Developer | AI Builder | Software Engineer
 
 I build software across **web, desktop, mobile, AI, and game development**.
 
 My background is mainly in **C#/.NET and Angular**, building full-stack applications and real-world web projects. More recently, I've been exploring **AI, local models, generative applications, and developer tools**.
 
-</div>
-
 ---
 
-##  What I Build
+## What I Build
 
-###  Full-Stack & Web Development
+### Full-Stack & Web Development
 
 My core background is in building complete web applications with **Angular and .NET**.
 
@@ -26,15 +22,15 @@ I've built applications covering everything from frontend interfaces and REST AP
 
 Some of my web projects are private production projects, including:
 
-###  Kaghazbaran
+### Kaghazbaran
 
 A full-stack web application built with **Angular and ASP.NET Core**, with SQL Server, authentication, email services, administration tools, SEO and CI/CD.
 
-🔗 **[kaghazbaran.ir](https://kaghazbaran.ir)**
+[Kaghazbaran Website](https://kaghazbaran.ir)
 
 ---
 
-###  AI & Local AI
+### AI & Local AI
 
 More recently, I've been moving deeper into **AI-integrated software**.
 
@@ -44,7 +40,7 @@ I'm particularly interested in building applications around:
 
 Rather than only consuming AI APIs, I enjoy building the software around the models, from the user interface and orchestration to inference, processing, and the final product.
 
-###  LinguaForge
+### LinguaForge
 
 An open-source **local AI voice and dialogue studio** for generating speech, multi-speaker conversations, language-learning content, and scripted dialogue for things like games, animations, and video projects.
 
@@ -52,9 +48,9 @@ Built with:
 
 `Python` `PySide6` `PyTorch` `CUDA` `Chatterbox`
 
-🔗 **[View LinguaForge →](https://github.com/Mohsen-Arshad/LinguaForge)**
+[View LinguaForge](https://github.com/Mohsen-Arshad/LinguaForge)
 
-###  
+### Nyxel
 
 An AI-focused project exploring **developer tooling, browser integration, local infrastructure, and AI-assisted workflows**.
 
@@ -62,11 +58,11 @@ Built with:
 
 `TypeScript` `Node.js` `VS Code` `AI`
 
-🔗 **[Explore my repositories →](https://github.com/Mohsen-Arshad)**
+[Explore my repositories](https://github.com/Mohsen-Arshad)
 
 ---
 
-###  Game Development
+### Game Development
 
 Before moving more heavily into full-stack development and AI, I also spent time building **games and interactive applications with Unity and C#**.
 
@@ -76,11 +72,11 @@ This part of my background also gave me experience working with a completely dif
 
 `Unity` `C#` `Blender` `3D`
 
-🔗 **[View my game-development projects →]([https://github.com/Mohsen-Arshad](https://github.com/Mohsen-Arshad?tab=repositories))**
+[View my game-development projects](https://github.com/Mohsen-Arshad?tab=repositories)
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -100,28 +96,105 @@ This part of my background also gave me experience working with a completely dif
 
 ---
 
-##  Currently Exploring
+## Currently Exploring
 
 I'm currently focused on the intersection of **software engineering and AI**:
 
-* Local AI and open-source models
-* AI agents and tool calling
-* AI-powered developer tools
-* Generative AI applications
-* Automation and intelligent workflows
-* Building maintainable software around AI systems
+- Local AI and open-source models
+- AI agents and tool calling
+- AI-powered developer tools
+- Generative AI applications
+- Automation and intelligent workflows
+- Building maintainable software around AI systems
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-| Project              | What it is                       | Main Technologies       |
-| -------------------- | -------------------------------- | ----------------------- |
-|  **LinguaForge**  | Local AI voice & dialogue studio | Python · PyTorch · CUDA |
-|  **Nyxel**     | AI & developer tooling           | TypeScript · Node.js    |
-|  **Kaghazbaran**   | Full-stack web application       | Angular · .NET          |
-|  **RoastMan**       | E-commerce platform              | Angular · .NET · Redis  |
-|  **Game Projects** | Games & interactive experiments  | Unity · C# · Blender    |
+| Project | What it is | Main Technologies |
+|---|---|---|
+| **LinguaForge** | Local AI voice and dialogue studio | Python, PyTorch, CUDA |
+| **Nyxel** | AI and developer tooling | TypeScript, Node.js |
+| **Kaghazbaran** | Full-stack web application | Angular, .NET |
+| **RoastMan** | E-commerce platform | Angular, .NET, Redis |
+| **Game Projects** | Games and interactive experiments | Unity, C#, Blender |
+
+---
+
+## Projects in Development
+
+These are projects currently under development across mobile applications, AI infrastructure, and reinforcement learning research.
+
+### Locksy
+
+A **.NET MAUI Android application** that turns everyday reminders into customizable lock-screen wallpapers.
+
+The application lets users manage reminders, personalize their appearance, and schedule one-time alarms while keeping reminder data stored locally.
+
+Key features include:
+
+- Creating, editing, completing, deleting, and reordering reminders
+- Generating personalized Android lock-screen wallpapers
+- Customizing wallpaper layouts and clock clearance
+- Assigning individual colors to reminders
+- Supporting light and dark themes
+- Scheduling reminder notifications
+- Storing reminder data locally
+
+Built with:
+
+`C#` `.NET MAUI 9` `Android SDK`
+
+Status: Early development, with Android device compatibility and platform-specific behavior still being tested.
+
+### Nyxel
+
+A **local-first AI gateway for Visual Studio Code** that routes developer requests through API-based, web-based, and local AI providers.
+
+The project focuses on intelligent provider routing, project-aware context, local memory, privacy controls, and AI-assisted development workflows.
+
+Key features include:
+
+- Context-aware request classification and provider selection
+- A local Gateway with authenticated requests and streaming chat
+- Integration with multiple AI providers and local inference servers
+- Persistent provider definitions and import/export workflows
+- Local project memory and structured context preparation
+- Optional semantic context compression
+- Privacy-aware context handling
+- Browser integration through a Chromium-based Browser Bridge
+
+Built with:
+
+`TypeScript` `Node.js` `VS Code API` `AI` `Local LLMs`
+
+Status: Active development, covering provider runtime, context intelligence, and browser integration.
+
+### Dota Learning Lab
+
+A **reproducible reinforcement-learning research framework** for experimenting with Dota-style lane control in a simplified synthetic environment.
+
+The project separates environment simulation, Q-learning, baseline policies, held-out evaluation, and statistical reporting to make experiments reproducible and measurable.
+
+Key features include:
+
+- Tabular Q-learning with reproducible training seeds
+- Versioned and validated model checkpoints
+- Random and fixed-heuristic baseline policies
+- Independent training and held-out evaluation
+- Episode-level datasets and optional transition logs
+- Learning curves and automated benchmark reports
+- Paired reward comparisons with bootstrap confidence intervals
+- Automated tests and continuous integration
+- Optional Laya integration for high-level strategic advice
+
+Built with:
+
+`Python` `Reinforcement Learning` `Q-Learning` `Pytest` `GitHub Actions`
+
+Status: Research prototype, currently evaluated in a synthetic lane-control environment.
+
+Important scope limitation: Dota Learning Lab does not currently control the live Dota 2 client. Results measure performance in a simplified synthetic task and should not be interpreted as evidence of actual Dota 2 gameplay skill.
 
 ---
 
