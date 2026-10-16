@@ -117,8 +117,8 @@ I'm currently focused on the intersection of **software engineering and AI**:
 | **Nyxel** | Local-first AI gateway for VS Code | TypeScript, Node.js |
 | **Kaghazbaran** | Full-stack web application | Angular, .NET |
 | **RoastMan** | E-commerce platform | Angular, .NET, Redis |
-| **Game Projects** | Games and interactive experiments | Unity, C#, Blender |
 | **Locksy** | Customizable Android reminder wallpapers | C#, .NET MAUI |
+| **Game Projects** | Games and interactive experiments | Unity, C#, Blender |
 
 ---
 
