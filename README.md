@@ -126,11 +126,11 @@ I'm currently focused on the intersection of **software engineering and AI**:
 
 ---
 
-## Projects in Development
+# Projects in Development
 
 These are projects currently under development across mobile applications, AI infrastructure, and reinforcement learning research.
 
-### Locksy
+## Locksy
 
 A **.NET MAUI Android application** that turns everyday reminders into customizable lock-screen wallpapers.
 
@@ -154,7 +154,7 @@ Status: Early development, with Android device compatibility and platform-specif
 
 [View Locksy](https://github.com/Mohsen-Arshad/Locksy)
 ---
-### Nyxel
+## Nyxel
 
 A **local-first AI gateway for Visual Studio Code** that routes developer requests through API-based, web-based, and local AI providers.
 
@@ -179,7 +179,7 @@ Status: Active development, covering provider runtime, context intelligence, and
 
 [View Nyxel](https://github.com/Mohsen-Arshad/Nyxel)
 ---
-### DotaBotAI
+## DotaBotAI
 
 A **reproducible reinforcement-learning research framework** for experimenting with Dota-style lane control in a simplified synthetic environment.
 
