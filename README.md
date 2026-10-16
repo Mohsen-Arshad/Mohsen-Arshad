@@ -147,6 +147,7 @@ Built with:
 `C#` `.NET MAUI 9` `Android SDK`
 
 Status: Early development, with Android device compatibility and platform-specific behavior still being tested.
+
 [View Locksy](https://github.com/Mohsen-Arshad/Locksy)
 
 ### Nyxel
@@ -171,6 +172,7 @@ Built with:
 `TypeScript` `Node.js` `VS Code API` `AI` `Local LLMs`
 
 Status: Active development, covering provider runtime, context intelligence, and browser integration.
+
 [View Nyxel](https://github.com/Mohsen-Arshad/Nyxel)
 
 ### Dota Learning Lab
