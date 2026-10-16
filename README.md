@@ -153,7 +153,7 @@ Built with:
 Status: Early development, with Android device compatibility and platform-specific behavior still being tested.
 
 [View Locksy](https://github.com/Mohsen-Arshad/Locksy)
-
+---
 ### Nyxel
 
 A **local-first AI gateway for Visual Studio Code** that routes developer requests through API-based, web-based, and local AI providers.
@@ -178,7 +178,7 @@ Built with:
 Status: Active development, covering provider runtime, context intelligence, and browser integration.
 
 [View Nyxel](https://github.com/Mohsen-Arshad/Nyxel)
-
+---
 ### DotaBotAI
 
 A **reproducible reinforcement-learning research framework** for experimenting with Dota-style lane control in a simplified synthetic environment.
@@ -202,6 +202,8 @@ Built with:
 `Python` `Reinforcement Learning` `Q-Learning` `Pytest` `GitHub Actions`
 
 Status: Research prototype, currently evaluated in a synthetic lane-control environment.
+
+---
 
 Important scope limitation: DotaBotAI does not currently control the live Dota 2 client. Results measure performance in a simplified synthetic task and should not be interpreted as evidence of actual Dota 2 gameplay skill.
 
