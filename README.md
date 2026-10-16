@@ -58,7 +58,7 @@ Built with:
 
 `TypeScript` `Node.js` `VS Code` `AI`
 
-[Explore my repositories](https://github.com/Mohsen-Arshad)
+[Explore my repositories](https://github.com/Mohsen-Arshad/Nyxel)
 
 ---
 
