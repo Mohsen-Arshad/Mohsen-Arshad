@@ -175,7 +175,7 @@ Status: Active development, covering provider runtime, context intelligence, and
 
 [View Nyxel](https://github.com/Mohsen-Arshad/Nyxel)
 
-### Dota Learning Lab
+### DotaBotAI
 
 A **reproducible reinforcement-learning research framework** for experimenting with Dota-style lane control in a simplified synthetic environment.
 
@@ -199,7 +199,9 @@ Built with:
 
 Status: Research prototype, currently evaluated in a synthetic lane-control environment.
 
-Important scope limitation: Dota Learning Lab does not currently control the live Dota 2 client. Results measure performance in a simplified synthetic task and should not be interpreted as evidence of actual Dota 2 gameplay skill.
+Important scope limitation: DotaBotAI does not currently control the live Dota 2 client. Results measure performance in a simplified synthetic task and should not be interpreted as evidence of actual Dota 2 gameplay skill.
+
+[View DotaBotAI](https://github.com/Mohsen-Arshad/DotaBotAI)
 
 ---
 
