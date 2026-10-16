@@ -114,10 +114,11 @@ I'm currently focused on the intersection of **software engineering and AI**:
 | Project | What it is | Main Technologies |
 |---|---|---|
 | **LinguaForge** | Local AI voice and dialogue studio | Python, PyTorch, CUDA |
-| **Nyxel** | AI and developer tooling | TypeScript, Node.js |
+| **Nyxel** | Local-first AI gateway for VS Code | TypeScript, Node.js |
 | **Kaghazbaran** | Full-stack web application | Angular, .NET |
 | **RoastMan** | E-commerce platform | Angular, .NET, Redis |
 | **Game Projects** | Games and interactive experiments | Unity, C#, Blender |
+| **Locksy** | Customizable Android reminder wallpapers | C#, .NET MAUI |
 
 ---
 
