@@ -6,7 +6,7 @@
 
 I build software across **web, desktop, mobile, AI, and game development**.
 
-My background is mainly in **C#/.NET and Angular**, building full-stack applications and real-world web projects. More recently, I've been exploring **AI, local models, generative applications, and developer tools**.
+My background is mainly in **C#/.NET and Angular and .NET MAUI**, building full-stack applications and real-world web projects. More recently, I've been exploring **AI, local models, generative applications, and developer tools**.
 
 -------------------------------------------------------------
 
