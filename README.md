@@ -20,7 +20,7 @@ My core background is in building complete web applications with **Angular and .
 
 I've worked with:
 
-`Angular` `TypeScript` `C#` `.NET` `ASP.NET Core` `REST APIs` `SQL Server` `Redis`
+`Angular` `TypeScript` `C#` `.NET` `ASP.NET Core` `MAUI` `REST APIs` `SQL Server` `Redis`
 
 I've built applications covering everything from frontend interfaces and REST APIs to authentication, databases, caching, email services, deployment, and CI/CD.
 
